@@ -1,0 +1,3 @@
+[submodule "vendor/tiled-to-godot-export"]
+	path = vendor/tiled-to-godot-export
+	url = git@github-feldc:MikeMnD/tiled-to-godot-export.git
