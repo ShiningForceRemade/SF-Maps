@@ -4,6 +4,11 @@
   <property name="projectRoot" value="C:/Dev/ShiningForceRemadeRoot/ShiningForceRemade/"/>
  </properties>
  <image source="../../../../ShiningForceRemade/Assets/SF1/Tilesets/1.png" width="128" height="128"/>
+ <tile id="0">
+  <properties>
+   <property name="projectRoot" value="C:/Dev/ShiningForceRemadeRoot/ShiningForceRemade/"/>
+  </properties>
+ </tile>
  <wangsets>
   <wangset name="Unnamed Set" type="mixed" tile="-1">
    <wangcolor name="WalkablePath" color="#ff0000" tile="-1" probability="1"/>
