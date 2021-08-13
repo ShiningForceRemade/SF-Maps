@@ -2,3 +2,5 @@
 # These will be tracked within the main repo
 /**/*.tres
 /**/*.tscn
+
+/**/*.png

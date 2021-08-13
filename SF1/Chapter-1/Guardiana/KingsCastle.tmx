@@ -10401,7 +10401,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="3" name="Roofs" width="100" height="100" visible="0">
+ <layer id="3" name="Roofs" width="100" height="100">
   <data encoding="csv">
    <chunk x="32" y="-208" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
