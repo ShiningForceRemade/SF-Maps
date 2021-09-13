@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="4" tileheight="4" infinite="1" nextlayerid="5" nextobjectid="1">
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="4" tileheight="4" infinite="1" nextlayerid="6" nextobjectid="2">
  <tileset firstgid="1" source="../../_Tilesets/Original/0.tsx"/>
  <tileset firstgid="1025" source="../../_Tilesets/Original/6.tsx"/>
  <tileset firstgid="2049" source="../../_Tilesets/Original/7.tsx"/>
+ <tileset firstgid="3073" source="TownRef.tsx"/>
+ <objectgroup id="5" name="Ref" opacity="0.5">
+  <object id="1" gid="3073" x="-972.008" y="2120.01" width="1584" height="3168"/>
+ </objectgroup>
  <layer id="1" name="Ground" width="100" height="100">
   <data encoding="csv">
    <chunk x="-32" y="-240" width="16" height="16">
@@ -10401,7 +10405,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="3" name="Roofs" width="100" height="100">
+ <layer id="3" name="Roofs" width="100" height="100" visible="0">
   <data encoding="csv">
    <chunk x="32" y="-208" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
