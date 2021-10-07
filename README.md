@@ -2,6 +2,10 @@
 
 Recreated Shining Force Series Maps
 
+## Tiled basics article for SF-Maps
+
+[Tiled Basics](https://github.com/ShiningForceRemade/SF-Maps/wiki/Tiled-Basics)
+
 ## Progress
 
 [SF1 - 12.5% - click me for a breakdown](https://github.com/ShiningForceRemade/SF-Maps/tree/main/SF1)
