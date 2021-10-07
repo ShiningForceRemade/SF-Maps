@@ -2,6 +2,14 @@
 
 Recreated Shining Force Series Maps
 
+## Progress
+
+[SF1 - 12.5% - click me for a breakdown](https://github.com/ShiningForceRemade/SF-Maps/tree/main/SF1)
+
+SF2 - 0%
+
+SFCD - 0%
+
 ## Tooling
 
 Currently all the maps are going to be created in [Tiled](https://www.mapeditor.org/) [(latest download link)](https://github.com/mapeditor/tiled/releases).
