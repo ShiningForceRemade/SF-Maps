@@ -15,8 +15,8 @@ If a map has a note of "extra space", that means the original map was too small 
 * [X] Overworld
 * [X] Ancient's Gate (Battle 1) 
   * NOTE(feldc) - has extra space
-* [ ] Gong's House
-  * TODO(feldc) - add extra space
+* [X] Gong's House
+  * NOTE(feldc) - has extra space
 * [X] Alterone Town
 * [X] Alterone King's Castle
 * [X] Headquarters
