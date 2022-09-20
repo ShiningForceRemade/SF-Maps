@@ -6,7 +6,7 @@ Percent Complete: 12.5%~
 
 If a map has a note of "extra space", that means the original map was too small for a zoomed out view. So extra parts of the map outside the original bounds were built out.
 
-## Chapter 1 [ ]
+## Chapter 1 [O]
 * [X] Guardiana Town (normal)
   * TODO(feldc) - Need to do a recheck pass
 * [X] Guardiana Town (devastated)
@@ -21,7 +21,8 @@ If a map has a note of "extra space", that means the original map was too small 
 * [X] Alterone King's Castle
 * [X] Headquarters
 
-## Chapter 2 [ ]
+## Chapter 2 [O]
+* [X] Overworld
 
 ## Chapter 3 [ ]
 
