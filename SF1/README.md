@@ -1,6 +1,6 @@
 # SF1 Maps Progress breakdown
 
-Percent Complete: 12.5%~
+Percent Complete: 25%~
 
 ### Notes
 
@@ -22,7 +22,14 @@ If a map has a note of "extra space", that means the original map was too small 
 * [X] Headquarters
 
 ## Chapter 2 [O]
+- TODO all maps need a check over pass
 * [X] Overworld
+* [X] Mage School
+  * [-] TODO: finish cavern
+* [X] Shade Abbey
+* [X] Rindo
+* [X] Circus
+* [X] Boat
 
 ## Chapter 3 [ ]
 
