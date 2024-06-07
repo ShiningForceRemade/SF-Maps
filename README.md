@@ -8,7 +8,7 @@ Recreated Shining Force Series Maps
 
 ## Progress
 
-[SF1 - 12.5% - click me for a breakdown](https://github.com/ShiningForceRemade/SF-Maps/tree/main/SF1)
+[SF1 - 25% - click me for a breakdown](https://github.com/ShiningForceRemade/SF-Maps/tree/main/SF1)
 
 SF2 - 0%
 
